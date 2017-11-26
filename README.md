@@ -22,3 +22,8 @@ Score calcute is use
 
 ![Alt text](https://github.com/Burakdemirci/Snake/blob/master/1.png "Game_select_snake")
 
+![Alt text](https://github.com/Burakdemirci/Snake/blob/master/2.png "Game_run")
+
+![Alt text](https://github.com/Burakdemirci/Snake/blob/master/3.png "Game_snake_ability_chose")
+
+![Alt text](https://github.com/Burakdemirci/Snake/blob/master/ClassDiagram.png "Class_Diagram")
