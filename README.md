@@ -20,3 +20,5 @@ score-multiplier (decorations included).
 Score calcute is use
 -> Use the decorator design pattern
 
+![Alt text](https://github.com/Burakdemirci/Snake/blob/master/1.png "Game_select_snake")
+
